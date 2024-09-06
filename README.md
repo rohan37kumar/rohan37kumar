@@ -1,4 +1,4 @@
-<h1 align="center">YO! 👋, myself **kc**</h1>
+<h1 align="center">YO! 👋, myself kc</h1>
 <h3 align="center">A "better than average" Tech-Enthusiast from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan37kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rohan37kumar" /> </p>
