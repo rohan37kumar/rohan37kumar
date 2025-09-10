@@ -1,21 +1,21 @@
 # 💫 About Me:
 🔭 Aspiring Game Developer specializing in Unity & C# <br>
 👯 Excited to collaborate on new GameDev opportunities <br>
-🌐 My portfolio: <a href="https://kcplays.tech" target="_blank">kcplays.tech</a> <br>
+🌐 My portfolio: <a href="https://kcplays.tech" target="_blank" rel="noopener noreferrer">kcplays.tech</a> <br>
 🌱 Currently improving clean code practices in C# <br>
 💬 Ask me about Unity, C#, or Game Development in general <br>
 ⚡ Fun fact: I can solve a 5x5 Rubik’s cube in under 9 minutes!
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://kcplays.tech) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yaa2XAQFGQ) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cranekyle03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-kumar-2a9847252) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kylecrane03) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23924642) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cranekyle03) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCKMwrpuuHmJ3lZgawxJSDUg) 
+<a href="https://kcplays.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white"></a> 
+<a href="https://discord.gg/Yaa2XAQFGQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> 
+<a href="https://instagram.com/cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> 
+<a href="https://linkedin.com/in/rohan-kumar-2a9847252" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+<a href="https://reddit.com/user/Kylecrane03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a> 
+<a href="https://stackoverflow.com/users/23924642" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a> 
+<a href="https://x.com/cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
+<a href="https://youtube.com/@UCKMwrpuuHmJ3lZgawxJSDUg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a> 
 
 
 # 💻 Tech Stack:
@@ -42,4 +42,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohan37kumar&icon=5&color=2)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://visitcount.itsvg.in/api?id=rohan37kumar&icon=5&color=2"></a>
