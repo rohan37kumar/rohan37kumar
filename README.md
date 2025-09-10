@@ -9,13 +9,13 @@
 
 ## 🌐 Socials:
 <a href="https://kcplays.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white"></a> 
-<a href="https://discord.gg/Yaa2XAQFGQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> 
+<a href="https://linkedin.com/in/rohan-kumar-kc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+<a href="https://x.com/cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
 <a href="https://instagram.com/cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> 
-<a href="https://linkedin.com/in/rohan-kumar-2a9847252" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+<a href="https://www.youtube.com/@cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a> 
+<a href="https://discord.gg/Yaa2XAQFGQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> 
 <a href="https://reddit.com/user/Kylecrane03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a> 
 <a href="https://stackoverflow.com/users/23924642" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a> 
-<a href="https://x.com/cranekyle03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
-<a href="https://youtube.com/@UCKMwrpuuHmJ3lZgawxJSDUg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a> 
 
 
 # 💻 Tech Stack:
@@ -42,4 +42,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 ---
-<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://visitcount.itsvg.in/api?id=rohan37kumar&icon=5&color=2"></a>
